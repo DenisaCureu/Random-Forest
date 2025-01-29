@@ -39,7 +39,7 @@ Comparison of predicted labels with real labels:
 - Tree 2
   ![Image](https://github.com/user-attachments/assets/182df4c9-c362-4da2-9743-5a4361acb3f9)
 - Tree 3
-  ![Image](https://github.com/user-attachments/assets/36000225-ba08-453a-b937-8c
+  https://github.com/DenisaCureu/Random-Forest/issues/7#issue-2818996525
 
   Relationship between recall and accuracy for all three classes in individually is captured in the score F1, which is the harmonic mean between recall and accuracy - the model does well for class 0, quite bad for class 1 and decent for class 2.
  Looking at the confusion matrix, we can see that most mistakes are when we classify 52 records of medium risk as low risk, which provides additional insight into low class 1 recalls.
